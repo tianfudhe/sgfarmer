@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "SG Live-banner Remover",
+  "description": "This extension shows a Google Image search result for the current page",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "liverm.html",
+    "default_title": "Close"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://bbs.sgamer.com/*"],
+      // "css": ["mystyles.css"],
+      "js": ["liverm.js"]
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ]
+}
