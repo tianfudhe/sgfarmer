@@ -1,6 +1,8 @@
 #sgfarmer
 伐木伐木  
 By [Tianfu D. He](http://tianfudhe.github.io)
+## For English-lang visitors
+**NONONO, leave this page aside**. This project is of-no-interest, that helps me farm up level of [this forum](http://bbs.sgamer.com/forum-44-1.html).
 
 ## 用法
 1. 打开浏览器，浏览器推荐用Firefox或Chrome，其他不保证成功。
